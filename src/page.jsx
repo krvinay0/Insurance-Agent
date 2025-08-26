@@ -103,7 +103,8 @@ function Navbar() {
       <Container className="flex items-center justify-between py-4">
         <a href="#" className="flex items-center gap-3">
           <div className="flex h-10 w-10 items-center justify-center rounded-2xl bg-indigo-600/90 ring-1 ring-white/10">
-            <ShieldCheck className="h-6 w-6" />
+            {/* <ShieldCheck className="h-6 w-6" /> */}
+            <img src="/vite4.png" alt="" />
           </div>
           <div className="leading-tight">
             <div className="text-sm font-semibold text-white/90">{AGENCY_NAME}</div>
