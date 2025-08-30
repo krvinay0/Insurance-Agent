@@ -22,7 +22,7 @@ const AGENT_NAME = "Vinay Kumar";
 const EMAIL = "vinaykumarmaanyvar@gmail.com";
 const MOBILE = "+91 79039 27019"; // display format
 const MOBILE_RAW = "917903927019"; // for tel:/whatsapp links
-const GOOGLE_FORM_URL = "https://forms.gle/ZFnhe1CkhXFdvBVc9";
+const GOOGLE_FORM_URL = "https://forms.gle/X53BH7y75Xa3RyAe9";
 
 // Minimum starting prices (indicative). Update these easily.
 const PRICES = {
